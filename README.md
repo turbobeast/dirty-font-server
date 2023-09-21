@@ -4,7 +4,7 @@
 
 1) Clone the repo and start the server.
 
-```basb
+```bash
   git clone git@github.com:turbobeast/dirty-font-server.git
   cd dirty-font-server
   nvm use
